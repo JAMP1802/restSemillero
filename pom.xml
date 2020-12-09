@@ -15,6 +15,13 @@
       <scope>test</scope>
     </dependency>
     
+    <!-- Proyecto middleware -->
+    <dependency>
+      <groupId>com.clearminds.jmp</groupId>
+	  <artifactId>middleware</artifactId>
+	  <version>1.0.0</version>
+    </dependency>
+
     <dependency>
 	    <groupId>javax.ws.rs</groupId>
 	    <artifactId>javax.ws.rs-api</artifactId>
